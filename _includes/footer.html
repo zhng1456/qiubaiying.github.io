@@ -25,6 +25,17 @@
                                 </a>
                             </li>
                     {% endif %}
+					<!-- add QQ add target = "_blank" to <a> by rosewind -->
+                    {% if site.qq_username %}
+                            <li>
+                                <a target="_blank" href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin={{ site.qq_username }}&website=www.oicqzone.com">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa  fa-stack-1x fa-inverse">Q</i>
+                                    </span>
+                                </a>
+                            </li>
+                    {% endif %}
                     {% if site.twitter_username %}
                     <li>
                         <a href="https://twitter.com/{{ site.twitter_username }}">
