@@ -29,7 +29,7 @@ tags:
 
 
 
-![img](https://user-gold-cdn.xitu.io/2018/5/24/1639259ea399586b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![img](https://github.com/zhng1456/zhng1456.github.io/blob/master/img/typora-user-images/20190708155144.png?raw=true)
 
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-![img](https://user-gold-cdn.xitu.io/2018/5/24/1639259ea3e1fbcf?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![img](https://github.com/zhng1456/zhng1456.github.io/blob/master/img/typora-user-images/20190708155217.png?raw=true)
 
 
 
